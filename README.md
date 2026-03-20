@@ -89,7 +89,7 @@ The system maps recognized faces with a **CSV database** and displays:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/face-recognition-attendance-system.git
+git clone git remote add origin https://github.com/selvan-01/face-recognition-attendance-system.git
 cd face-recognition-attendance-system
 ```
 
