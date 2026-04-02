@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail16.png" width="800">
+</p>
+
 # 🎯 Face Recognition Attendance System (ML + DL)
 
 ## 📌 Project Overview
@@ -151,6 +155,12 @@ python src/recognize_with_database.py
 * ☁️ Cloud deployment
 
 ---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/face-recognition-attendance-system.git)
 
 ## 🙌 Author
 
